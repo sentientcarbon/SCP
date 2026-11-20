@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: "Sentient Carbon",
     description: "Sentient Carbon — website coming soon.",
-    siteUrl: "https://sentientcarbon.github.io/scp",
+    siteUrl: "https://sentientcarbon.github.io/SCP",
   },
   plugins: [],
 }
