@@ -1,0 +1,21 @@
+{
+  "name": "sentient-carbon-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sentient Carbon website",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.16.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
